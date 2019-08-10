@@ -1,5 +1,5 @@
 # Networks Course 
-### CST-UH 1078, New York University Abu Dhabi
+### CSTS-UH 1078, New York University Abu Dhabi
 ## Course description:
 
 How do the various social, technological, and other networks in which humans live shape our behavior, agency, knowledge, beliefs, and preferences? Is it possible to map or otherwise quantify the ways in which these networks – of friends, media and information, biological and chemical processes, transportation – both facilitate and are shaped by various converging or diverging patterns of human sociality? Such general questions have been taken up within a range of disciplines in the sciences, social sciences, and humanities. Although there are multiple approaches and answers put forward within these different domains, they all share a basic vocabulary. This course aims to convey and allow students to explore this common vocabulary of formal concepts and processes related to understanding networks. They will do so by taking up tools for making elementary computations as they experiment with their own scenarios for analyzing the complex patterns of relationships that shape our lives.
